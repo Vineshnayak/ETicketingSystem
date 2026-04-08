@@ -1,0 +1,4 @@
+*.class
+mongodb_data/
+*.pdf
+.DS_Store
